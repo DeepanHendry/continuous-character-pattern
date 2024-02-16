@@ -1,0 +1,1 @@
+# continuous-character-pattern
